@@ -1,0 +1,51 @@
+button {
+    transition: all 0.3s ease 0s;
+    background-color: white;
+    height: 50px;
+    width: 250px;
+    color: black;
+    text-align: center;
+    border-radius: 5px;
+    margin-top: 10px;
+    font-size: 30px;
+  }
+  button:hover {
+    background-color: rgb(97, 243, 251);
+    color: black;
+  }
+    a {color: gold;} 
+    h1 {font-size: 45px; text-align: center; border-bottom: 1px solid white; margin:0; padding:20px;} 
+    body {margin:0}
+    #grid ol {border-right: 1px solid white; width: 275px; margin: 0; padding: 20px;}
+    #grid {display: grid; grid-template-columns: 350px 1fr;}
+    h3 {padding:20px;}
+    #button {transition: all 0.3s ease 0s;
+        background-color: white;
+        height: 50px;
+        width: 250px;
+        color: black;
+        text-align: center;
+        border-radius: 5px;
+        margin-top: 10px;
+        font-size: 30px;
+        text-align: center;
+    }
+        #button:hover {
+            background-color: rgb(97, 243, 251);
+            color: black;
+          }
+
+    #button_ {transition: all 0.3s ease 0s;
+        background-color: rgb(97, 243, 251);
+        height: 50px;
+        width: 250px;
+        color: black;
+        text-align: center;
+        border-radius: 5px;
+        margin-top: 10px;
+        font-size: 30px;
+      }
+      #button_:hover {
+        background-color: white;
+        color: black;
+      }
